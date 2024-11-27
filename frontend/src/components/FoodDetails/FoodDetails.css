@@ -1,0 +1,31 @@
+.food-details {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .food-details img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .food-details h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .food-details p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .food-details button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
